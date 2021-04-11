@@ -1,12 +1,10 @@
-# generative-art
+# Generative Art
 
-# Procesverslag
-
-## Over
-* **Naam:** `voornaam + achternaam`
-* **Klas:** `vid-1/vid-2`
-* **Minor:** `Visual Interface Design`
-* **Favoriete dier:** `Zeeotters zijn te gek!`
+## About
+* **Name:** Max Wieringa
+* **Class:** VID 2-a
+* **Minor:** Visual Interface Design
+* **Favorite animal:** Panda
 * **Startniveau:** `blauw/rood/zwart`
 
 ## Concept
@@ -17,10 +15,10 @@
 
 `Wat zijn de features in het project dat je gemaakt hebt? Waar kan ik op klikken? Waar zit de interactie?`
 
-## Onderzoek & inspiratie
+## Research and inspiration
 `Schrijf wat over je onderzoek en je inspiratie voor het project. Hoe kwam je concept tot stand?`
 
-## Voortang
+## Progress
 
 `Schrijf hier een klein logboekje met je voortgang per week.`
 
@@ -34,7 +32,7 @@
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
 
 
-## Bronnenlijst
+## Sources
 
 * `Link naar bron 1`
 * `Link naar bron 2`
