@@ -2,8 +2,7 @@ let img;
 let smallPoint, largePoint;
 points = []
 let drops = [];
-const gravity = 0.1;
-const growth = 1;
+let gravity = 0.02;
 
 function preload() {
   img = loadImage('kidsSeeGhostsBackground.jpg');
@@ -13,7 +12,7 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
   imageMode(CENTER);
   img.loadPixels();
-  for (var i = 0; i < 8; i++) {
+  for (var i = 0; i < 10; i++) {
     drops.push(new Drop());
   }
 }
@@ -25,14 +24,14 @@ function Drop() {
   this.w = 30;
   this.h = 15;
   this.length = 10;
-  this.speed = random(0, 3);
+  this.speed = random(0.01, 1);
   this.endY = 900;
   this.falling = true;
 
   this.show = function() {
     if (this.falling) {
       stroke('#2D77F5');
-      strokeWeight(10);
+      strokeWeight(14);
       line(this.x, this.y, this.x, this.y + this.length);
     }
   };
@@ -80,10 +79,18 @@ function draw() {
     fill(p.color);
     ellipse(p.x, p.y, p.size, p.size, noStroke());
   }
+  if (points.length > 2000) {
+    points.splice(0, 1);
+  }
   for (var i = 0; i < drops.length; i = i + 1) {
     drops[i].show();
     drops[i].fall();
     drops[i].stopFall();
     drops[i].reset();
+  }
+  if (mouseIsPressed) {
+    if (mouseX < width && mouseY < height) {
+      gravity = mouseY / 250;
+    }
   }
 }
