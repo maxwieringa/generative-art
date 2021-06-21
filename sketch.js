@@ -78,7 +78,7 @@ function draw() {
     fill(p.color);
     ellipse(p.x, p.y, p.size, p.size, noStroke());
   }
-  if (points.length > 2000) {
+  if (points.length > 1500) {
     points.splice(0, 1);
   }
   for (var i = 0; i < drops.length; i = i + 1) {
