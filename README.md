@@ -35,6 +35,9 @@ De gebruiker kan interacteren met het kunstwerk aan de hand van de sliders en do
 
 <img width="679" alt="Screenshot 2021-05-19 at 22 35 01" src="https://user-images.githubusercontent.com/51541543/118881654-9b7a9d80-b8f3-11eb-9ac4-4fa281dce5d0.png">
 
+## Hoeveel perenijsjes mag je in een dag?
+
+Voor in de zomer is dit een goeie vraag om te stellen aangezien in de hitte een waterijsje heel lekker is en verfrissend. Maar hoeveel mag je in een dag eten? In een voedselblog werd gezegd dat het voedingscentrum 120 verwencalorieën aanraad voor een dag. In een perenijsje zitten ongeveer 50 calorieën, wat zou betekenen dat je maar 2,4 perenijsjes per dag mag. Dit is natuurlijk veel te weinig voor een hete zomerdag, dus wat is het limiet daadwerkelijk? Volgens het diabetesfonds mag je 60gram suiker op een dag en volgens de consumentenbond zitten er 10 gram suiker in een waterijsje van 50gram. Dit zou betekenen dat je eigenlijk 6 perenijsjes op een dag mag, een veel beter aantal als je het mij vraagt.
 
 ## Bronnen
 
