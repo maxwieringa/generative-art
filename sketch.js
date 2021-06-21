@@ -1,6 +1,5 @@
 let img;
-let smallPoint, largePoint;
-points = []
+let points = []
 let drops = [];
 let gravity = 0.02;
 
@@ -89,8 +88,6 @@ function draw() {
     drops[i].reset();
   }
   if (mouseIsPressed) {
-    if (mouseX < width && mouseY < height) {
-      gravity = mouseY / 250;
-    }
+    gravity = mouseY / 250;
   }
 }
