@@ -7,6 +7,10 @@
 * **Favorite animal:** Panda
 * **Startniveau:** Rood
 
+## Herkansing aanpassingen
+
+Voor de herkansing heb ik een aantal dingen aangepast voornamelijk in de interactie. De sliders heb ik weggehaald en nu kan je de grootte van de cirkels compleet met de muis veranderen. Ook heb ik regendruppels toegevoegd die over het scherm gaan. Deze kan je ook beïnvloeden door de muis te klikken. Als je boven in de pagina klikt gaan de druppels langzaam en als je het onderin klikt gaan ze heel snel. Doordat ik een nieuw object, de regendruppels, heb toegevoegd heb ik de cirkels en regendruppels in aparte arrays gezet zodat ze apart te beïnvloeden zijn. Ook gaan de eerste aantal cirkels weg zodra er te veel op het scherm komen, dat aantal is nu 1500. Hierdoor blijft het regen effect constant en is het duidelijker te zien dat de cirkels kleiner of groter worden.
+
 ## Concept
 
 Het concept is een relaxend kunstwerk wat gebasseerd is op een van mijn favoriete albums, kids see ghosts, van Kid Cudi en Kanye West. Het idee is dat er regen druppels op de album cover vallen en daardoor meer van de album cover te zien wordt. De muziek en achtergrond geluid is er om dit effect beter naar voren te brengen en het een experience wordt. De gebruiker dan de minimale en maximale grootte van de cirkels aanpassen met sliders en vervolgens door de muis van boven naar beneden te doen deze grootte aanpassen. De cirkels verschijnen willekeurig om het effect van regen te krijgen en om het kunstwerk generatief te maken. 
